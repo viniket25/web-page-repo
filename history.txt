@@ -1,7 +1,3 @@
 I have added few text to tgis file
-Nilima new user has added her new changes into this file.
-blaslddlas
-asdsakdsdjadalsd
-asdlkasddadladja
-asdasd
-After viniket review I have added new line.
+Viniket added his commnets in his own feature branch.
+
